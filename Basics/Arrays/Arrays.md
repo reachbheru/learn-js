@@ -41,3 +41,11 @@ console.log(myArr);//gives value [1,2,3,4,5]
 - [Array() constuctor](D:\Learn\learn-js\Basics\Arrays\Array_constructor.md)
 
 - [Array.prototype.copyWithin()](D:\Learn\learn-js\Basics\Arrays\copyWithin().md)
+
+- [Array.prototype.push()](D:\Learn\learn-js\Basics\Arrays\Push().md)
+
+- [Array.prototype.pop()](D:\Learn\learn-js\Basics\Arrays\pop().md)
+
+- [Array.prototype.unshift()](D:\Learn\learn-js\Basics\Arrays\unshift().md)
+
+- [Array.prototype.shift()](D:\Learn\learn-js\Basics\Arrays\shift().md)
