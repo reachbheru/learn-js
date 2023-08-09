@@ -1,10 +1,10 @@
 # Array.prototype.copyWithin()
 
-The copyWithin() method shallow copies part of this array to another location in the same array and returns this array without modifying its length.
+copyWithin() method considers an array first and then copies part of an array to the same array itself and returns it, without modifying its size but yet the modified data whatever user wishes to have in another's place i.e, copies array element of an array within the same array.
 
 ## Description
 
-The copyWithin() method is a mutating method(this method create an new array and do changes in new array). It does not alter the length of this, but it will change the content of this and create new properties or delete existing properties, if necessary.
+The copyWithin() method is a mutating method(this method makes changes in existing array). It does not alter the length of this, but it will change the content of this and create new properties or delete existing properties, if necessary.
 
 ## Syntax
 
