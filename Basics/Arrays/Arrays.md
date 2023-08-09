@@ -39,3 +39,5 @@ console.log(myArr);//gives value [1,2,3,4,5]
 - [Array.prototype.concat()](D:\Learn\learn-js\Basics\Arrays\concat().md)
 
 - [Array() constuctor](D:\Learn\learn-js\Basics\Arrays\Array_constructor.md)
+
+- [Array.prototype.copyWithin()](D:\Learn\learn-js\Basics\Arrays\copyWithin().md)
