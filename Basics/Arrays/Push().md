@@ -29,3 +29,11 @@ const myArr = [0, 1, 2, 3, 4, 5];
 myArr.push(6);//push adds 6 in myArr
 console.log(myArr);//gives [0,1,2,3,4,5,6]
 ```
+
+## Supported Browsers
+
+- Google Chrome 1.0 and above
+- Microsoft Edge 12 and above
+- Mozilla Firefox 1.0 and above
+- Safari 1 and above
+- Opera 4 and above

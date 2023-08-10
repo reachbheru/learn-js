@@ -49,3 +49,5 @@ console.log(myArr);//gives value [1,2,3,4,5]
 - [Array.prototype.unshift()](D:\Learn\learn-js\Basics\Arrays\unshift().md)
 
 - [Array.prototype.shift()](D:\Learn\learn-js\Basics\Arrays\shift().md)
+
+- [Array.prototype.includes()](D:\Learn\learn-js\Basics\Arrays\includes().md)

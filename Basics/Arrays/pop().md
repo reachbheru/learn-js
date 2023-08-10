@@ -20,3 +20,11 @@ const myArr = [0, 1, 2, 3, 4, 5];
 console.log(myArr.pop());//gives 5
 console.log(myArr);//gives [0,1,2,3,4]
 ```
+
+## Supported Browsers
+
+- Google Chrome 1.0 and above
+- Microsoft Edge 12 and above
+- Mozilla Firefox 1.0 and above
+- Safari 1 and above
+- Opera 4 and above

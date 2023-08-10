@@ -24,3 +24,11 @@ The element in the array matching the given index. Always returns undefined if i
 console.log(anime.at(2));//gives value bleach
 console.log(myArr.at(1));//gives value 2
 ```
+
+## Supported Browsers
+
+- Google Chrome 92
+- Edge 92
+- Firefox 90
+- Opera 78
+- Safari 15.4

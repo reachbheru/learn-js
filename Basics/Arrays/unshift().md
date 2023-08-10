@@ -29,3 +29,12 @@ const myArr = [0, 1, 2, 3, 4, 5];
 myArr.unshift(9);
 console.log(myArr);//gives [9,0,1,2,3,4,5]
 ```
+
+## Supported Browsers
+
+- Google Chrome 1 and above
+- Edge 12 and above
+- Firefox 1 and above
+- Internet Explorer 5.5 and above
+- Opera 4 and above
+- Safari 1 and above
