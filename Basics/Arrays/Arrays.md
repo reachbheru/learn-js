@@ -59,3 +59,5 @@ console.log(myArr);//gives value [1,2,3,4,5]
 - [Array.prototype.slice()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/slice.md)
 
 - [Array.prototype.splice()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/splice().md)
+
+- [Array.prototype.flat()]()
