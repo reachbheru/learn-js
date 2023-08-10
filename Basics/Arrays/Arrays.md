@@ -34,28 +34,28 @@ console.log(myArr);//gives value [1,2,3,4,5]
 
 ## Array methods
 
-- [Array.prototype.at()](D:\Learn\learn-js\Basics\Arrays\at().md)
+- [Array.prototype.at()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/at().md)
 
-- [Array.prototype.concat()](D:\Learn\learn-js\Basics\Arrays\concat().md)
+- [Array.prototype.concat()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/concat().md)
 
-- [Array() constuctor](D:\Learn\learn-js\Basics\Arrays\Array_constructor.md)
+- [Array() constuctor](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/Array_constructor.md)
 
-- [Array.prototype.copyWithin()](D:\Learn\learn-js\Basics\Arrays\copyWithin().md)
+- [Array.prototype.copyWithin()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/copyWithin().md)
 
 - [Array.prototype.push()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/Push().md)
 
-- [Array.prototype.pop()](D:\Learn\learn-js\Basics\Arrays\pop().md)
+- [Array.prototype.pop()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/pop().md)
 
-- [Array.prototype.unshift()](D:\Learn\learn-js\Basics\Arrays\unshift().md)
+- [Array.prototype.unshift()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/unshift().md)
 
-- [Array.prototype.shift()](D:\Learn\learn-js\Basics\Arrays\shift().md)
+- [Array.prototype.shift()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/shift().md)
 
-- [Array.prototype.includes()](D:\Learn\learn-js\Basics\Arrays\includes().md)
+- [Array.prototype.includes()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/includes().md)
 
-- [Array.prototype.indexOf()](D:\Learn\learn-js\Basics\Arrays\indexOf().md)
+- [Array.prototype.indexOf()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/indexOf().md)
 
-- [Array.prototype.join()](D:\Learn\learn-js\Basics\Arrays\join().md)
+- [Array.prototype.join()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/join().md)
 
-- [Array.prototype.slice()](D:\Learn\learn-js\Basics\Arrays\slice.md)
+- [Array.prototype.slice()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/slice.md)
 
-- [Array.prototype.splice()](D:\Learn\learn-js\Basics\Arrays\splice().md)
+- [Array.prototype.splice()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/splice().md)
