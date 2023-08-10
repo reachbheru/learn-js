@@ -71,4 +71,4 @@ console.log(JsUser[mySym]);//mykey1
 
 ## Object methods
 
-- [Object.freeze()]
+- [Object.freeze()](https://github.com/reachbheru/learn-js/blob/main/Basics/Objects/freeze().md)
