@@ -44,3 +44,11 @@ const anime = ["naruto", "bleach"];
 console.log(anime.length); // 2
 console.log(anime[0]); // "naruto"
 ```
+
+## Supported Browsers
+
+- Google Chrome
+- Edge
+- Firefox
+- Opera
+- Safari

@@ -57,3 +57,11 @@ console.log([1, 2, 3, 4, 5].copyWithin(0, 3, 4));
 console.log([1, 2, 3, 4, 5].copyWithin(-2, -3, -1));
 // [1, 2, 3, 3, 4]
 ```
+
+## Supported Browsers
+
+- Google Chrome 45.0
+- Microsoft Edge 12.0
+- Mozilla Firefox 32.0
+- Opera 32.0
+- Safari 9

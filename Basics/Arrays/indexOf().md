@@ -39,3 +39,11 @@ array.indexOf(2, -1); // -1,because search starts from index number -1 or 2 in t
 array.indexOf(2, -3); // 0,because search starts from index number -3 or 0 in this case
 array.indexOf(NaN); // -1
 ```
+
+## Supported Browsers
+
+- Google Chrome 45.0
+- Microsoft Edge 12.0
+- Mozilla Firefox 32.0
+- Opera 32.0
+- Safari 9

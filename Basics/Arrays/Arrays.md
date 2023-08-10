@@ -60,4 +60,8 @@ console.log(myArr);//gives value [1,2,3,4,5]
 
 - [Array.prototype.splice()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/splice().md)
 
-- [Array.prototype.flat()]()
+- [Array.prototype.flat()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/flat().md)
+
+- [Array.isArray()]
+
+- [Array.from()]
