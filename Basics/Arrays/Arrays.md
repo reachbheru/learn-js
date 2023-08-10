@@ -62,6 +62,6 @@ console.log(myArr);//gives value [1,2,3,4,5]
 
 - [Array.prototype.flat()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/flat().md)
 
-- [Array.isArray()]
+- [Array.isArray()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/isArray().md)
 
-- [Array.from()]
+- [Array.from()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/from().md)
