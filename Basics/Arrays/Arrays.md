@@ -42,7 +42,7 @@ console.log(myArr);//gives value [1,2,3,4,5]
 
 - [Array.prototype.copyWithin()](D:\Learn\learn-js\Basics\Arrays\copyWithin().md)
 
-- [Array.prototype.push()](D:\Learn\learn-js\Basics\Arrays\Push().md)
+- [Array.prototype.push()](https://github.com/reachbheru/learn-js/blob/main/Basics/Arrays/Push().md)
 
 - [Array.prototype.pop()](D:\Learn\learn-js\Basics\Arrays\pop().md)
 
