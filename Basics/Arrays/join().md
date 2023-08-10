@@ -49,3 +49,14 @@ a.join(""); // 'narutobleachdragonBall'
 - Mozilla Firefox 1.0
 - Safari 1 and above
 - Opera 4 and above
+
+## Spread syntax
+
+This syntex is a syntax, it is works like `join()`.
+
+```js
+const marvel_heros = ["thor", "Ironman", "spiderman"]
+const dc_heros = ["superman", "flash", "batman"]
+const all_new_heros = [...marvel_heros, ...dc_heros]
+console.log(all_new_heros);//['thor','Ironman','spiderman','superman','flash','batman']
+```
