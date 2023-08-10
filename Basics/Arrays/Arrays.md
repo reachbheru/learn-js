@@ -51,3 +51,11 @@ console.log(myArr);//gives value [1,2,3,4,5]
 - [Array.prototype.shift()](D:\Learn\learn-js\Basics\Arrays\shift().md)
 
 - [Array.prototype.includes()](D:\Learn\learn-js\Basics\Arrays\includes().md)
+
+- [Array.prototype.indexOf()](D:\Learn\learn-js\Basics\Arrays\indexOf().md)
+
+- [Array.prototype.join()](D:\Learn\learn-js\Basics\Arrays\join().md)
+
+- [Array.prototype.slice()](D:\Learn\learn-js\Basics\Arrays\slice.md)
+
+- [Array.prototype.splice()](D:\Learn\learn-js\Basics\Arrays\splice().md)

@@ -21,8 +21,8 @@ The value to search for.
 Finding the position of value in a array, starting from 0 indexing.
 
 - Negative index counts back from the end of the array, If the starting point is less than 0, we add it to the total length of the list. However, the array is still searched from front to back in this case.
-- If the provide starting point you less than the negative length of the array or don't provide one at all, we'll use the beginning of the array as the starting point (index 0), causing the entire array to be searched.
-- If the starting point you specify is greater than or equal to the length of the array,the array is not searched and false is returned.
+- If you provide starting point less than the negative length of the array or don't provide one at all, we'll use the beginning of the array as the starting point (index 0), causing the entire array to be searched.
+- If the starting point you specify is greater than or equal to the length of the array,the array is not searched and -1 is returned.
 
 ## Return value
 
