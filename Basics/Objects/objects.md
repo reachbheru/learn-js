@@ -47,40 +47,6 @@ obj.key2 = value2;
 
 >Note: It is highly uncommon to use the Constructed Form over the Object Literals for creating objects, hence for any further illustrations we will be using the object literals on most occasions.
 
-## Accessing object properties
-
-You can access the properties of an object in 3 ways:
-
-- Dot property accessor: object.property
-- Square brackets property accessor: object['property']
-- Object destructuring: const { property } = object
-
-### Dot notation accesser
-
-By using dot notation we can access the properties and assign value.
-
-```js
-const animeUser = {}
-
-animeUser.id = "big3"
-animeUser.name = "naruto"
-animeUser.isLoggedIn = false
-console.log(animeUser);
-//gives { id: 'big3', name: 'naruto', isLoggedIn: false }
-
-console.log(Object.keys(animeUser));
-//gives [ 'id', 'name', 'isLoggedIn' ]
-console.log(Object.values(animeUser));
-//gives [ 'big3', 'naruto', false ]
-console.log(Object.entries(animeUser));
-//gives [ [ 'id', 'big3' ], [ 'name', 'naruto' ], [ 'isLoggedIn', false ] ]
-
-console.log(animeUser.hasOwnProperty('isLoggedIn'));
-// gives true
-```
-
-### Square brackets property accessor
-
 ## Example
 
 ```js
@@ -103,8 +69,30 @@ console.log(JsUser["email"]);//naruto@google.com
 console.log(JsUser[mySym]);//mykey1
 ```
 
+```js
+//accessing and assigning properties
+
+const animeUser = {}
+
+animeUser.id = "big3"
+animeUser.name = "naruto"
+animeUser.isLoggedIn = false
+console.log(animeUser);
+//gives { id: 'big3', name: 'naruto', isLoggedIn: false }
+
+console.log(Object.keys(animeUser));
+//gives [ 'id', 'name', 'isLoggedIn' ]
+console.log(Object.values(animeUser));
+//gives [ 'big3', 'naruto', false ]
+console.log(Object.entries(animeUser));
+//gives [ [ 'id', 'big3' ], [ 'name', 'naruto' ], [ 'isLoggedIn', false ] ]
+
+console.log(animeUser.hasOwnProperty('isLoggedIn'));
+// gives true
+```
+
 ## Object methods
 
 - [Object.freeze()](https://github.com/reachbheru/learn-js/blob/main/Basics/Objects/freeze().md)
 
-- [Object.assign()]
+- [Object.assign()](https://github.com/reachbheru/learn-js/blob/main/Basics/Objects/assign().md)
