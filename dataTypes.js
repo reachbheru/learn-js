@@ -12,4 +12,4 @@ console.log(typeof varNull);//null is a object type and a standalone value
 let varUndefined=undefined;
 console.log(varUndefined);//undefined is a undefined type
 
-//null is a keyword but undefined is an identifier
+//null is a keyword but undefined is an identifier  
