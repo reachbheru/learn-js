@@ -4,14 +4,14 @@ The control flow is the order in which the computer executes statements in a scr
 
 Code is run in order from the first line in the file to the last line, unless the computer runs across the structures that change the control flow, such as conditionals and loops.
 
-- [Conditional operator]()
+- [Conditional_operator](https://github.com/reachbheru/learn-js/blob/main/Basics/control_flow/conditional_operator)
 
-- [Ternary operator]()
+- [Ternary_operator](https://github.com/reachbheru/learn-js/blob/main/Basics/control_flow/ternary_operator.md)
 
-- [Truthy value]()
+- [Truthy_value](https://github.com/reachbheru/learn-js/blob/main/Basics/control_flow/truthy_value.md)
 
-- [Falsy value]()
+- [Falsy_value](https://github.com/reachbheru/learn-js/blob/main/Basics/control_flow/falsy_value.md)
 
-- [Switch]()
+- [Switch](https://github.com/reachbheru/learn-js/blob/main/Basics/control_flow/switch.md)
 
-- [Nullish operator]()
+- [Nullish_operator](https://github.com/reachbheru/learn-js/blob/main/Basics/control_flow/nullish_operator.md)
