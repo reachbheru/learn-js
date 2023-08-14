@@ -18,8 +18,8 @@ The statements for loops provided in JavaScript are:
 
 - [do while loop statement](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/do_while_loop.md)
 
-- [for of loop statement]
+- [for of loop statement](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/for_of.md)
 
-- [for in loop statement]
+- [for in loop statement](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/for_in.md)
 
-- [forEach]
+- [forEach](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/forEach.md)
