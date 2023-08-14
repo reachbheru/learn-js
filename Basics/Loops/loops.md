@@ -17,3 +17,9 @@ The statements for loops provided in JavaScript are:
 - [while loop statement](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/while_loop.md)
 
 - [do while loop statement](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/do_while_loop.md)
+
+- [for of loop statement]
+
+- [for in loop statement]
+
+- [forEach]
