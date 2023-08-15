@@ -2,6 +2,8 @@
 
 The forEach() method of Array or Map or Set instances executes a provided function once for each array element or key/value pair in this map, in insertion order or value in this set, in insertion order.
 
+>Note: If we try to return value in any variable using forEach(), it always return undefined.
+
 ## Syntax
 
 ```js

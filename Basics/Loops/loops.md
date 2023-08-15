@@ -23,3 +23,5 @@ The statements for loops provided in JavaScript are:
 - [for in loop statement](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/for_in.md)
 
 - [forEach](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/forEach.md)
+
+- [filter() method]
