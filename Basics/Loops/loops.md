@@ -24,8 +24,8 @@ The statements for loops provided in JavaScript are:
 
 - [forEach](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/forEach.md)
 
-- [filter() method]
+- [filter() method](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/filter().md)
 
-- [map() method]
+- [map() method](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/map().md)
 
-- [reduce() method]
+- [reduce() method](https://github.com/reachbheru/learn-js/blob/main/Basics/Loops/reduce().md)
