@@ -35,9 +35,7 @@ An event can be triggered by the user action e.g. clicking the mouse button or t
      // attachEvent()
     // jQuery - on
 
-    // target, toElement, srcElement, currentTarget,
-    // clientX, clientY, screenX, screenY
-    // altkey, ctrlkey, shiftkey, keyCode
+    
 
     /* document.getElementById('images').addEventListener('click', function(e){
          console.log("clicked inside the ul");
@@ -80,3 +78,9 @@ An event can be triggered by the user action e.g. clicking the mouse button or t
 - [Event: timeStamp property]
 
 - [Event: preventDefault()]
+
+- [Event: target property]
+
+- [MouseEvent]
+
+- [Event: currentTarget property]
