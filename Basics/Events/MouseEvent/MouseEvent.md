@@ -6,19 +6,19 @@ MouseEvent derives from UIEvent, which in turn derives from Event. Though the Mo
 
 ## Instance property
 
-- [MouseEvent: clientX property]
+- [MouseEvent: clientX property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent_clientX.md)
 
-- [MouseEvent: clientY property]
+- [MouseEvent: clientY property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent_clientY.md)
 
-- [MouseEvent: screenX property]
+- [MouseEvent: screenX property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent_screenX.md)
 
-- [MouseEvent: screenY property]
+- [MouseEvent: screenY property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent_screenY.md)
 
-- [MouseEvent: altKey property]
+- [MouseEvent: altKey property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent_altkey.md)
 
-- [MouseEvent: ctrlKey property]
+- [MouseEvent: ctrlKey property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent_ctrlKey.md)
 
-- [MouseEvent: shiftKey property]
+- [MouseEvent: shiftKey property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent_shiftkey.md)
 
 ## Constructor
 

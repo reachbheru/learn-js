@@ -73,14 +73,16 @@ An event can be triggered by the user action e.g. clicking the mouse button or t
 
 ## Event property
 
-- [Event: type property]
+- [Event: type property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_type.md)
 
-- [Event: timeStamp property]
+- [Event: timeStamp property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_timeStamp.md)
 
-- [Event: preventDefault()]
+- [Event: preventDefault()](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_preventDefault.md)
 
-- [Event: target property]
+- [Event: target property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_targetProperty.md)
 
-- [MouseEvent]
+- [MouseEvent](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent.md)
 
-- [Event: currentTarget property]
+- [KeyboardEvent property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/KeyboardEvent/keyboardEvent_property.md)
+
+- [Event: currentTarget property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_currentTarget.md)
