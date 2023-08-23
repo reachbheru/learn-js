@@ -73,16 +73,16 @@ An event can be triggered by the user action e.g. clicking the mouse button or t
 
 ## Event property
 
-- [Event: type property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_type.md)
+- [Event: type property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_properties/Event_type.md)
 
-- [Event: timeStamp property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_timeStamp.md)
+- [Event: timeStamp property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_properties/Event_timeStamp.md)
 
-- [Event: preventDefault()](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_preventDefault.md)
+- [Event: preventDefault()](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_properties/Event_preventDefault.md)
 
-- [Event: target property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_targetProperty.md)
+- [Event: target property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_properties/Event_targetProperty.md)
 
-- [MouseEvent](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/MouseEvent/MouseEvent.md)
+- [MouseEvent](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_properties/MouseEvent/MouseEvent.md)
 
-- [KeyboardEvent property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/KeyboardEvent/keyboardEvent_property.md)
+- [KeyboardEvent property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_properties/KeyboardEvent/keyboardEvent_property.md)
 
-- [Event: currentTarget property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_currentTarget.md)
+- [Event: currentTarget property](https://github.com/reachbheru/learn-js/blob/main/Basics/Events/Event_properties/Event_currentTarget.md)
