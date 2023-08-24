@@ -1,3 +1,5 @@
+//finding if string is palindrome
+
 let string = "ship";
 let reverseString = "";
 const len = string.length;

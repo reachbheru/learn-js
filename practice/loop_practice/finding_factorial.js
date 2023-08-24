@@ -1,5 +1,7 @@
+//finding factorial
+
 const variable = 5 ;
-var factorial = 1;
+let factorial = 1;
 
 for(i = 2; i <= variable; i++ ){
    factorial = factorial * i;

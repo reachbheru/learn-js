@@ -1,3 +1,5 @@
+//reversing a string
+
 let originalString ="ship"
 let reverseString = " ";
 const len = originalString.length;
