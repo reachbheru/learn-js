@@ -1,0 +1,97 @@
+<!-- Build a simple to-do list application that lets users add, edit, and remove tasks. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    
+</head>
+
+<body>
+
+    <div class=listItem1 >
+        <h2 id="firstItem">
+            Event one
+        </h2>
+    </div>
+
+    <div class=listItem2 >
+        <h2 id="secondItem">
+            Event two
+        </h2>
+    </div>
+
+    <div class=listItem3 >
+        <h2 id="thirdItem">
+            Event three
+        </h2>
+    </div>
+
+    <div class=removeItem >
+        <h2 id="removeItem">
+            remove item
+        </h2>
+    </div>
+
+</body>
+
+
+<script>
+
+
+    document.body.style.backgroundColor = `#212121`
+    document.body.style.color = `#fff`
+    
+    //edit and add
+
+    let eventOne = document.getElementById(`firstItem`);
+    eventOne.addEventListener('click',function(event){
+        const inputOne = prompt("enter task for to do list");
+        eventOne.innerHTML = inputOne;
+    })
+
+    let eventTwo = document.getElementById(`secondItem`);
+    eventTwo.addEventListener('click',function(event){
+        const inputTwo = prompt("enter task for to do list");
+        eventTwo.innerHTML = inputTwo;
+    })
+
+    let eventThree = document.getElementById(`thirdItem`);
+    eventThree.addEventListener('click',function(event){
+        const inputThree = prompt("enter task for to do list");
+        eventThree.innerHTML = inputThree;
+    })
+
+    //remove
+    
+    document.getElementById(`removeItem`).addEventListener(`click`,(event) => {
+        
+        const inputRemove = prompt("enter task want to remove (first,second,third)");
+
+        if (inputRemove==="first"){
+            const toRemove = document.getElementById(`firstItem`)
+            toRemove.remove();
+        }
+        
+        else if (inputRemove=="second"){
+            const toRemove = document.getElementById(`secondItem`)
+            toRemove.remove();
+        }
+        else if (inputRemove=="third"){
+            const toRemove = document.getElementById(`thirdItem`)
+            toRemove.remove();
+        }
+        else{
+            console.log(`enter choice is invalid`)
+        }
+
+    })
+
+
+
+</script>
+
+
+</html>
