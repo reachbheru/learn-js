@@ -51,7 +51,6 @@ A key in the Map may only occur once; it is unique in the Map's collection. A Ma
 
 value inserted by set() method.
 
-A key in the Map may only occur once; it is unique in the Map's collection. A Map object is iterated by key-value pairs.
 
 ### Constructing map
 
