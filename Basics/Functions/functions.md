@@ -66,10 +66,10 @@ const user = {
 }
 
 user.welcomeMessage();
-// gives naruto, welcome to webisite
+// gives naruto, welcome to website
 user.username = "kakashi";
 user.welcomeMessage();
-// gives kakashi, welcome to webisite
+// gives kakashi, welcome to website
 console.log(this);
 // gives {}
 ```
